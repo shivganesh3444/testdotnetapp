@@ -1,0 +1,16 @@
+D:\Test\TestApp\TestDotNetApp\bin\Debug\net5.0\TestDotNetApp.exe
+D:\Test\TestApp\TestDotNetApp\bin\Debug\net5.0\TestDotNetApp.deps.json
+D:\Test\TestApp\TestDotNetApp\bin\Debug\net5.0\TestDotNetApp.runtimeconfig.json
+D:\Test\TestApp\TestDotNetApp\bin\Debug\net5.0\TestDotNetApp.runtimeconfig.dev.json
+D:\Test\TestApp\TestDotNetApp\bin\Debug\net5.0\TestDotNetApp.dll
+D:\Test\TestApp\TestDotNetApp\bin\Debug\net5.0\ref\TestDotNetApp.dll
+D:\Test\TestApp\TestDotNetApp\bin\Debug\net5.0\TestDotNetApp.pdb
+D:\Test\TestApp\TestDotNetApp\obj\Debug\net5.0\TestDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\TestApp\TestDotNetApp\obj\Debug\net5.0\TestDotNetApp.AssemblyInfoInputs.cache
+D:\Test\TestApp\TestDotNetApp\obj\Debug\net5.0\TestDotNetApp.AssemblyInfo.cs
+D:\Test\TestApp\TestDotNetApp\obj\Debug\net5.0\TestDotNetApp.csproj.CoreCompileInputs.cache
+D:\Test\TestApp\TestDotNetApp\obj\Debug\net5.0\TestDotNetApp.dll
+D:\Test\TestApp\TestDotNetApp\obj\Debug\net5.0\ref\TestDotNetApp.dll
+D:\Test\TestApp\TestDotNetApp\obj\Debug\net5.0\TestDotNetApp.pdb
+D:\Test\TestApp\TestDotNetApp\obj\Debug\net5.0\TestDotNetApp.genruntimeconfig.cache
+D:\Test\TestApp\TestDotNetApp\obj\Debug\net5.0\TestDotNetApp.csproj.AssemblyReference.cache
